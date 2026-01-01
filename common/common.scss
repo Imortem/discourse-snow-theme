@@ -11,7 +11,7 @@
         width: 100%;
         z-index: 150;
 
-        animation: snow 10s linear infinite;
+        animation: snow 20s linear infinite;
         
         @if is-light-color-scheme() {
             filter: invert(50%);
